@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Session6Assignment3</string>
+    <string name="txtclr">TEXT COLOR</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+</resources>
